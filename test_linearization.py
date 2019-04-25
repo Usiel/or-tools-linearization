@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import MagicMock, call
 
-from linearization import PieceWiseLinearization
+from ortools_linearization.linearization import PieceWiseLinearization
 
 
 class LinearizationTest(unittest.TestCase):
